@@ -1,0 +1,14 @@
+<!-- // Write your code here -->
+<h1>Blogs</h1>
+<div>
+    <% blogsData.forEach(data => { %>
+        <div>
+            <img src="<%= data.img %>">
+            <div>
+                <span><%= data.title %></span>
+                <span><%= data.description %></span>
+            </div>
+        </div>
+    <% }) %>
+
+</div>

@@ -1,0 +1,1 @@
+{"level":"info","message":"Sun Oct 01 2023 04:49:58 GMT+0530 (India Standard Time) \n req URL: /api/user/register \n reqBody: {\"name\":\"man\",\"email\":\"er@g.com\",\"password\":\"asd\"}","service":"user-service"}
